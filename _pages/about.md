@@ -26,4 +26,4 @@ What you'll find here
 
 Get in Touch
 ======
-Feel free to reach out if you'd like to connect! You can find my contact information in the sidebar.
+Feel free to reach out if you'd like to connect! You can find my contact information in the sidebar, or email me at [22011829@mail.ecust.edu.cn](mailto:22011829@mail.ecust.edu.cn).

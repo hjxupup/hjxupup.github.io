@@ -23,11 +23,11 @@ repository               : "hjxupup/hjxupup.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jiaxhu.jpg"
   name             : "Jiaxin Hu"
   pronouns         : # example: "she/her"  
-  bio              : "a creative girl"
-  location         : "Earth"
+  bio              : "Undergraduate @ ECUST"
+  location         : "Shanghai, China"
   employer         : # 
   uri              : # URL
   email            : "22011829@mail.ecust.edu.cn" 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/jiaxin-hu-8b400029a/ # Username
+  linkedin         : Amaris H. # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -80,13 +80,13 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+#publication_category:
+#  books:
+#    title: 'Books'
+#  manuscripts:
+#    title: 'Journal Articles'    
+#  conferences:
+#    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

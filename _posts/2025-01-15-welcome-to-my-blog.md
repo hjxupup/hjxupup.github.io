@@ -8,7 +8,7 @@ tags:
   - website
 ---
 
-Welcome to my personal blog! This is where I'll be sharing my thoughts, experiences, and learnings as a graduate student at ECUST.
+Welcome to my personal blog! This is where I'll be sharing my thoughts, experiences, and learnings as an undergraduate student at ECUST.
 
 ![My Profile Photo](/images/jiaxhu.jpg)
 

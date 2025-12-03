@@ -17,9 +17,7 @@ I'm a creative person who loves exploring new ideas and bringing them to life. T
 
 What you'll find here
 ======
-- **Publications**: My academic work and research
-- **Talks**: Presentations and talks I've given
-- **Teaching**: Courses and educational content
+
 - **Portfolio**: My creative projects and work
 - **Blog Posts**: Thoughts, updates, and random musings
 - **CV**: My professional background

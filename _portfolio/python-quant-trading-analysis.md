@@ -1,54 +1,53 @@
 ---
-title: "金融量化交易系统设计 - Python 策略回测与绩效分析"
-excerpt: "基于 Python 的量化交易策略回测与绩效分析系统，包含多策略对比、收益风险统计与可视化<br/><img src='/images/python-quant-trading/月度收益分布.png'>"
+title: "Financial Quantitative Trading System Design - Python Strategy Backtesting and Performance Analysis"
+excerpt: "Quantitative trading strategy backtesting and performance analysis system based on Python, including multi-strategy comparison, return and risk statistics, and visualization<br/><img src='/images/python-quant-trading/月度收益分布.png'>"
 collection: portfolio
 ---
 
-## 项目简介
+## Project Overview
 
-本项目面向《金融量化交易系统设计》课程，基于 Python 完成量化交易策略的回测、绩效评估与可视化分析。通过对多种策略进行历史回测、统计指标计算以及图表展示，构建了一套完整的策略研究与评估流程。
+This project is for the "Financial Quantitative Trading System Design" course, implementing quantitative trading strategy backtesting, performance evaluation, and visual analysis using Python. Through historical backtesting of multiple strategies, statistical metric calculations, and chart presentations, a complete strategy research and evaluation workflow is constructed.
 
-## 主要内容
+## Main Content
 
-- **策略实现**：使用 Python（Pandas、NumPy 等）编写多种交易策略脚本，覆盖趋势、均值回归等典型逻辑。
-- **回测框架**：支持自定义回测区间、交易信号和仓位管理，生成完整的交易记录。
-- **绩效指标**：计算净值曲线、最大回撤、年化收益、月度收益分布、滚动年化收益率等关键指标。
-- **结果可视化**：输出多种统计图（净值、回撤、箱线图、收益分布等），辅助策略对比与诊断。
-- **报告撰写**：配套实验报告与研究文档，梳理策略设计、数据处理和实验结论。
+- **Strategy Implementation**: Using Python (Pandas, NumPy, etc.) to write multiple trading strategy scripts covering typical logic such as trend following and mean reversion.
+- **Backtesting Framework**: Supports custom backtesting periods, trading signals, and position management, generating complete trading records.
+- **Performance Metrics**: Calculates key metrics including net value curves, maximum drawdown, annualized returns, monthly return distribution, rolling annualized returns, etc.
+- **Result Visualization**: Outputs various statistical charts (net value, drawdown, box plots, return distribution, etc.) to assist with strategy comparison and diagnosis.
+- **Report Writing**: Includes experimental reports and research documentation, organizing strategy design, data processing, and experimental conclusions.
 
-## 技术栈
+## Technology Stack
 
-- **语言与库**：Python、Pandas、NumPy、Matplotlib/Seaborn
-- **数据来源**：课程提供的历史行情与处理后的 CSV 数据
-- **分析方法**：收益/风险指标计算、箱线图、滚动分析等量化评估手段
+- **Language and Libraries**: Python, Pandas, NumPy, Matplotlib/Seaborn
+- **Data Source**: Historical market data provided by the course and processed CSV data
+- **Analysis Methods**: Return/risk metric calculations, box plots, rolling analysis, and other quantitative evaluation methods
 
-## 项目特色
+## Project Highlights
 
-1. 覆盖策略实现、回测、评估到可视化的完整流程。
-2. 侧重量化指标与统计图结合，直观展示策略表现。
-3. 可扩展到更多策略或资产，作为量化研究的基础模板。
+1. Complete workflow covering strategy implementation, backtesting, evaluation, and visualization.
+2. Emphasis on combining quantitative metrics with statistical charts for intuitive strategy performance presentation.
+3. Extensible to more strategies or assets, serving as a foundation template for quantitative research.
 
-## 项目截图
+## Project Screenshots
 
-![净值曲线](/images/python-quant-trading/净值曲线.png)
+![Net Value Curve](/images/python-quant-trading/净值曲线.png)
 
-![最大回撤曲线](/images/python-quant-trading/最大回撤曲线.png)
+![Maximum Drawdown Curve](/images/python-quant-trading/最大回撤曲线.png)
 
-![年度收益箱线图（总体）](/images/python-quant-trading/年度收益箱线图.png)
+![Annual Return Box Plot (Overall)](/images/python-quant-trading/年度收益箱线图.png)
 
-![年度收益箱线图（多头）](/images/python-quant-trading/年度收益箱线图-多头.png)
+![Annual Return Box Plot (Long)](/images/python-quant-trading/年度收益箱线图-多头.png)
 
-![年度收益箱线图（空头）](/images/python-quant-trading/年度收益箱线图-空头.png)
+![Annual Return Box Plot (Short)](/images/python-quant-trading/年度收益箱线图-空头.png)
 
-![年度收益箱线图（多空）](/images/python-quant-trading/年度收益箱线图-多空.png)
+![Annual Return Box Plot (Long-Short)](/images/python-quant-trading/年度收益箱线图-多空.png)
 
-![月度收益分布](/images/python-quant-trading/月度收益分布.png)
+![Monthly Return Distribution](/images/python-quant-trading/月度收益分布.png)
 
-![滚动年化收益率](/images/python-quant-trading/滚动年化收益率.png)
+![Rolling Annualized Return](/images/python-quant-trading/滚动年化收益率.png)
 
-## 课程信息
+## Course Information
 
-- **课程名称**：金融量化交易系统设计
-- **学期**：大三下学期
-- **项目类型**：课程项目
-
+- **Course Name**: Financial Quantitative Trading System Design
+- **Semester**: Second semester of junior year
+- **Project Type**: Course project

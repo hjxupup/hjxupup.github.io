@@ -1,51 +1,50 @@
 ---
-title: "数据库新技术实践 - 迷你DBMS系统"
-excerpt: "基于 Python 实现的数据库管理系统，支持 B+ 树索引、SQL 语句解析和数据持久化<br/><img src='/images/数据库新技术实践课程设计实验报告10809.png'>"
+title: "Database New Technology Practice - Mini DBMS System"
+excerpt: "Database management system implemented in Python, supporting B+ tree indexing, SQL statement parsing, and data persistence<br/><img src='/images/数据库新技术实践课程设计实验报告10809.png'>"
 collection: portfolio
 ---
 
-## 项目简介
+## Project Overview
 
-这是一个数据库新技术实践课程设计项目，实现了一个功能完整的迷你数据库管理系统（DBMS）。系统采用 Python 开发，支持基本的数据库操作、SQL 语句解析、B+ 树索引结构以及数据持久化存储。
+This is a database new technology practice course design project that implements a fully functional mini database management system (DBMS). The system is developed in Python, supporting basic database operations, SQL statement parsing, B+ tree index structure, and persistent data storage.
 
-## 主要功能
+## Main Features
 
-- **数据库管理**：创建、删除、切换数据库
-- **表管理**：创建表、删除表、修改表结构
-- **数据操作**：支持 INSERT、SELECT、UPDATE、DELETE 等 SQL 语句
-- **索引系统**：实现 B+ 树索引结构，提高查询效率
-- **数据持久化**：使用 Excel 文件存储数据库和表数据
-- **用户界面**：提供图形化界面（GUI）和命令行界面
-- **权限管理**：支持数据库权限控制
+- **Database Management**: Create, delete, and switch databases
+- **Table Management**: Create tables, delete tables, and modify table structures
+- **Data Operations**: Support for SQL statements such as INSERT, SELECT, UPDATE, DELETE
+- **Index System**: Implementation of B+ tree index structure to improve query efficiency
+- **Data Persistence**: Use Excel files to store database and table data
+- **User Interface**: Provides both graphical interface (GUI) and command-line interface
+- **Permission Management**: Support for database permission control
 
-## 技术栈
+## Technology Stack
 
-- **编程语言**：Python
-- **数据结构**：B+ 树索引
-- **数据存储**：Excel 文件（openpyxl）
-- **界面开发**：Python GUI（UI_lan.py）
-- **SQL 解析**：自定义 SQL 语句解析器
+- **Programming Language**: Python
+- **Data Structure**: B+ tree index
+- **Data Storage**: Excel files (openpyxl)
+- **Interface Development**: Python GUI (UI_lan.py)
+- **SQL Parsing**: Custom SQL statement parser
 
-## 项目特点
+## Project Highlights
 
-1. **完整的 DBMS 功能**：实现了数据库系统的核心功能，包括数据定义、数据操作和数据控制
-2. **高效的索引结构**：采用 B+ 树作为索引结构，支持快速数据检索
-3. **SQL 兼容**：支持标准 SQL 语句的解析和执行
-4. **数据持久化**：所有数据存储在 Excel 文件中，确保数据不丢失
+1. **Complete DBMS Functionality**: Implements core database system functions, including data definition, data manipulation, and data control
+2. **Efficient Index Structure**: Uses B+ tree as index structure, supporting fast data retrieval
+3. **SQL Compatibility**: Supports parsing and execution of standard SQL statements
+4. **Data Persistence**: All data is stored in Excel files to ensure data is not lost
 
-## 项目截图
+## Project Screenshots
 
-![数据库新技术实践截图1](/images/数据库新技术实践课程设计实验报告10809.png)
+![Database New Technology Practice Screenshot 1](/images/数据库新技术实践课程设计实验报告10809.png)
 
-![数据库新技术实践截图2](/images/数据库新技术实践课程设计实验报告11791.png)
+![Database New Technology Practice Screenshot 2](/images/数据库新技术实践课程设计实验报告11791.png)
 
-![数据库新技术实践截图3](/images/数据库新技术实践课程设计实验报告12357.png)
+![Database New Technology Practice Screenshot 3](/images/数据库新技术实践课程设计实验报告12357.png)
 
-![数据库新技术实践截图4](/images/数据库新技术实践课程设计实验报告27417.png)
+![Database New Technology Practice Screenshot 4](/images/数据库新技术实践课程设计实验报告27417.png)
 
-## 课程信息
+## Course Information
 
-- **课程名称**：数据库新技术实践
-- **学期**：大三上学期
-- **项目类型**：课程设计
-
+- **Course Name**: Database New Technology Practice
+- **Semester**: First semester of junior year
+- **Project Type**: Course design
